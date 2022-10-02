@@ -1,0 +1,9 @@
+
+.navbar{
+    font-weight: 500;
+}.pagelink a{
+    color:white;
+}
+ .pagelink a:focus,  .pagelink a:hover{
+   color:rgb(204, 159, 159);
+}
